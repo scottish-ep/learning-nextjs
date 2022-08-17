@@ -1,0 +1,9 @@
+.code_input {
+  width: 100%;
+}
+
+.input_verify {
+  text-align: center;
+  width: 95%;
+  border-bottom: 3px solid #E2E1E1;
+}

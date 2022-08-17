@@ -1,0 +1,9 @@
+@import "styles/variables.scss";
+
+.select {
+  font-size: $text-sm;
+
+  .MuiSelect-select {
+    padding-right: 5px;
+  }
+}
